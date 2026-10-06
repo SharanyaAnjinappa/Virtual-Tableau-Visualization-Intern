@@ -11,4 +11,4 @@ Visualizations Created
 - Outlier Analysis – Uses the Quantity vs Sales relationship to identify unusual transactions and extreme values.
 - Business KPIs – Summarizes important metrics such as total sales, quantity, customers, and orders.
 - Interactive EDA Dashboard – Combines the major visualizations into one dashboard for easy analysis.
-# Tools Used: Tableau Public, Microsoft Excel.
+-Tools Used: Tableau Public, Microsoft Excel.
